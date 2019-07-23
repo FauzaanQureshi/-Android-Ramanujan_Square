@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/AbsoluteLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="248dp"
+        android:layout_y="306dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="256dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="165dp"
+        android:layout_y="306dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="82dp"
+        android:layout_y="306dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="304dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="164dp"
+        android:layout_y="256dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="2dp"
+        android:layout_y="260dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="245dp"
+        android:layout_y="208dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="81dp"
+        android:layout_y="212dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="210dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="80dp"
+        android:layout_y="258dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="163dp"
+        android:layout_y="210dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="80dp"
+        android:layout_y="166dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="166dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="162dp"
+        android:layout_y="168dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/tv11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="167dp"
+        android:text="@string/oo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp" />
+
+</AbsoluteLayout>

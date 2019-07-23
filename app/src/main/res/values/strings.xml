@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Ramanujan\'s Formula</string>
+
+    <string name="go">Go</string>
+
+    <string name="dob">Enter your DOB</string>
+
+    <string name="hint">DDMMYYYY &lt;NoSpace></string>
+
+    <string name="oo">OOO</string>
+
+</resources>
